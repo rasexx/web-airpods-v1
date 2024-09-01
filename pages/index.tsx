@@ -44,8 +44,8 @@ const BuyPage = () => {
           <Link className="text-sm font-medium hover:underline underline-offset-4" href="#">
             Nosotros
           </Link>
-          <Link className="text-sm font-medium hover:underline underline-offset-4" href="#">
-            Contactanos
+          <Link className="text-sm font-medium hover:underline underline-offset-4" href="/contactanos">
+            Contáctanos
           </Link>
         </nav>
       </header>
@@ -198,6 +198,10 @@ const BuyPage = () => {
           <Link className="text-xs hover:underline underline-offset-4" href="#">
             Nuestro whatsapp
           </Link>
+          <Link className="text-xs hover:underline underline-offset-4" href="/contactanos">
+            Contáctanos
+          </Link>
+
         </nav>
       </footer>
     </div>
