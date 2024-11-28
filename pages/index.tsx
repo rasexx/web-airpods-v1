@@ -77,7 +77,7 @@ const BuyPage = () => {
                           alt="AirPods Pro Gen 2 - All Components"
                           className="aspect-square overflow-hidden rounded-xl object-cover object-center"
                           height={400}
-                          src="/styles/product_images/all.png"
+                          src="/styles/images/all.png"
                           width={400}
                         />
                       </div>
@@ -86,7 +86,7 @@ const BuyPage = () => {
                           alt="AirPods Pro Gen 2 - AirPods Only"
                           className="aspect-square overflow-hidden rounded-xl object-cover object-center"
                           height={400}
-                          src="/styles/product_images/airpods_only.webp"
+                          src="/styles/images/airpods.png"
                           width={400}
                         />
                       </div>
@@ -95,7 +95,7 @@ const BuyPage = () => {
                           alt="AirPods Pro Gen 2 - Front and Side View"
                           className="aspect-square overflow-hidden rounded-xl object-cover object-center"
                           height={400}
-                          src="/styles/product_images/front_side.webp"
+                          src="/styles/images/front.png"
                           width={400}
                         />
                       </div>
@@ -104,7 +104,7 @@ const BuyPage = () => {
                           alt="AirPods Pro Gen 2 - Left Side View"
                           className="aspect-square overflow-hidden rounded-xl object-cover object-center"
                           height={400}
-                          src="/styles/product_images/left_side.webp"
+                          src="/styles/images/left.png"
                           width={400}
                         />
                       </div>
@@ -113,7 +113,7 @@ const BuyPage = () => {
                           alt="AirPods Pro Gen 2 - Lower Side View"
                           className="aspect-square overflow-hidden rounded-xl object-cover object-center"
                           height={400}
-                          src="/styles/product_images/lower_side.webp"
+                          src="/styles/images/lower.png"
                           width={400}
                         />
                       </div>
@@ -122,7 +122,7 @@ const BuyPage = () => {
                           alt="AirPods Pro Gen 2 - With USB"
                           className="aspect-square overflow-hidden rounded-xl object-cover object-center"
                           height={400}
-                          src="/styles/product_images/whit_usb.webp"
+                          src="/styles/images/usb.png"
                           width={400}
                         />
                       </div>
