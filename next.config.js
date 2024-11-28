@@ -12,9 +12,9 @@ const nextConfig = {
       },
     ],
   },
-  output: isGithubPages ? 'export' : undefined,
-  trailingSlash: isGithubPages ? true : undefined,
-  skipTrailingSlashRedirect: isGithubPages ? true : undefined,
+  output: isGithubPages ? 'export' : 'standalone', // Aseguramos que `output: 'export'` sea utilizado para GitHub Pages
+  trailingSlash: isGithubPages ? true : false,
+  skipTrailingSlashRedirect: isGithubPages ? true : false,
   distDir: isGithubPages ? 'out' : '.next',
 };
 
